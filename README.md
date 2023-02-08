@@ -1,4 +1,4 @@
-![Screenshot (2)](https://user-images.githubusercontent.com/66817101/217295454-7146e440-7027-4b93-87cd-b7ce8897fb60.png)
+
 # Unsupervised-Learning-Recommenders-Reinforcement-Learning
 We are now ready to train our agent to solve the Lunar Lander environment. In the cell below we will implement the algorithm in Fig 3 line by line (please note that we have included the same algorithm below for easy reference. This will prevent you from scrolling up and down the notebook):
 
@@ -34,4 +34,4 @@ Line 16: At the end of each iteration of the outer loop we update the value of  
 Finally, we wanted to note that we have included some extra variables to keep track of the total number of points the agent received in each episode. This will help us determine if the agent has solved the environment and it will also allow us to see how our agent performed during training. We also use the time module to measure how long the training takes.
 
 
-
+![Screenshot (2)](https://user-images.githubusercontent.com/66817101/217295454-7146e440-7027-4b93-87cd-b7ce8897fb60.png)
