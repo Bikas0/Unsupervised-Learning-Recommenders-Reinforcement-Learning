@@ -1,7 +1,3 @@
-![Screenshot (49)](https://user-images.githubusercontent.com/66817101/224567385-d070f91d-fe40-4d46-a759-684f9e64d5b8.png)
-![Screenshot (50)](https://user-images.githubusercontent.com/66817101/224567389-d8b988a1-9a71-475b-89dd-669c9748e7e9.png)
-![Screenshot (51)](https://user-images.githubusercontent.com/66817101/224567391-6553d1b5-bed7-41c6-93e4-259826f467f7.png)
-
 # Unsupervised-Learning-Recommenders-Reinforcement-Learning
 We are now ready to train our agent to solve the Lunar Lander environment. In the cell below we will implement the algorithm in Fig 3 line by line (please note that we have included the same algorithm below for easy reference. This will prevent you from scrolling up and down the notebook):
 
@@ -38,3 +34,41 @@ Finally, we wanted to note that we have included some extra variables to keep tr
 
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/66817101/217295454-7146e440-7027-4b93-87cd-b7ce8897fb60.png)
+
+
+
+# Unsupervised Learning
+
+![Screenshot (49)](https://user-images.githubusercontent.com/66817101/224567385-d070f91d-fe40-4d46-a759-684f9e64d5b8.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/66817101/224567389-d8b988a1-9a71-475b-89dd-669c9748e7e9.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/66817101/224567391-6553d1b5-bed7-41c6-93e4-259826f467f7.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/66817101/224567452-d691033a-fd63-4ad6-9f3a-bb72bb7b132c.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/66817101/224567458-98e96d0d-f53a-40f2-ac02-85470bebad25.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/66817101/224567459-a0b45cf3-1885-4e6c-8fd9-efe1be023e17.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/66817101/224567460-2a1c209c-f77c-4880-8625-3afb9ea11a0e.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/66817101/224567463-8e9551a0-1cd3-45ff-a8b7-1fe6cf84e359.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/66817101/224567464-0a0706d1-8633-405c-a4e8-fa4b847ec3e0.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/66817101/224567467-bfd40432-ba2f-42d1-b1d7-f71d43d07910.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/66817101/224567469-6b60b726-e4e1-4bb9-a907-523dfbf19230.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/66817101/224567473-fda83256-4a45-4436-b253-0d04730dbc4f.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/66817101/224567476-a551c55e-388f-4709-a25e-0c248b6a2da8.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/66817101/224567478-c1d656a1-35d5-429a-a054-d8962a48b3fa.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/66817101/224567487-d3cd075b-c896-467d-b9ae-c3b09c3ccf6b.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/66817101/224567489-200801a8-f1a1-4edb-b43e-4c4b24ccc50b.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/66817101/224567490-28ea2147-f397-4622-b454-1004ac061233.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/66817101/224567495-5fdca594-00d4-4d28-8fbf-2a59a6eb783b.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/66817101/224567496-0c8483b3-1ea0-4a14-bfe8-4d620141834d.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/66817101/224567502-5b303a70-b338-4f17-9121-caa28c24d785.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/66817101/224567503-4a006f9f-8c16-43dc-a157-2cd154bb1003.png)
+![Screenshot (70)](https://user-images.githubusercontent.com/66817101/224567505-41e63ff1-c21a-46f9-b836-fe001465e208.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/66817101/224567506-f0e865cf-522b-45a6-aa6c-882d7b652621.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/66817101/224567507-1bf1917a-ed5d-4446-941f-9bf9fa80776f.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/66817101/224567508-8871b6f4-d02f-462b-a325-a93a7b0e0ab4.png)
+![Screenshot (74)](https://user-images.githubusercontent.com/66817101/224567510-956e275c-c072-4248-a89b-5efa962c3dbe.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/66817101/224567513-84710cf3-44b1-449a-b39e-632e38b4f9eb.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/66817101/224567515-522ef27d-ce3e-4def-930c-a271fd132d95.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/66817101/224567518-6ff09c3c-59c5-4553-8382-8e4924ea8a41.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/66817101/224567521-91adb2ca-d9f7-41d5-badd-6930649b3f9c.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/66817101/224567525-5f379160-484d-453f-94aa-4dd154205538.png)
+![Screenshot (80)](https://user-images.githubusercontent.com/66817101/224567526-7117d7e2-73cc-43b4-a860-9726e7299e0f.png)
+
