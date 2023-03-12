@@ -1,3 +1,6 @@
+![Screenshot (49)](https://user-images.githubusercontent.com/66817101/224567385-d070f91d-fe40-4d46-a759-684f9e64d5b8.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/66817101/224567389-d8b988a1-9a71-475b-89dd-669c9748e7e9.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/66817101/224567391-6553d1b5-bed7-41c6-93e4-259826f467f7.png)
 
 # Unsupervised-Learning-Recommenders-Reinforcement-Learning
 We are now ready to train our agent to solve the Lunar Lander environment. In the cell below we will implement the algorithm in Fig 3 line by line (please note that we have included the same algorithm below for easy reference. This will prevent you from scrolling up and down the notebook):
