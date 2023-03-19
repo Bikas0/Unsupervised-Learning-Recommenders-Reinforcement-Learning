@@ -72,3 +72,6 @@ Finally, we wanted to note that we have included some extra variables to keep tr
 ![Screenshot (79)](https://user-images.githubusercontent.com/66817101/224567525-5f379160-484d-453f-94aa-4dd154205538.png)
 ![Screenshot (80)](https://user-images.githubusercontent.com/66817101/224567526-7117d7e2-73cc-43b4-a860-9726e7299e0f.png)
 
+
+
+# TensorFlow implementation of collaborative filtering
